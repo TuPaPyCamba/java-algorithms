@@ -24,6 +24,7 @@ public class GananciaDeInversion {
         int dias;
         double capital;
 
+        // Solicita el dinero invertido en el banco y el tiempo que ha estado a inversion dicho dinero
         System.out.println("Ingrese el capital inicial:");
         capital = scan.nextDouble();
 
